@@ -1,0 +1,18 @@
+Ageless Scrolling Survival was created by quequo.
+It was build on top of an older scenario called The Scrolling Wesnoth.
+
+Below you can find credits for The Scrolling Wesnoth:
+
+--------------------------------------------------------------------------------
+
+This scenario was done from the old classic scenario of Elvish Pillager, 
+made for version 1.0.x and 1.2.x of The Battle for Wesnoth
+
+1.8 version maintainer : krotop
+
+Classic version : Elvish_Pillager
+
+Reedition map design : krotop
+Reedition spawn design : krotop, Mythological, Velensk, tsr
+
+Playtest : Dauntless
